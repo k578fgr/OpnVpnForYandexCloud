@@ -1,0 +1,2 @@
+# OpnVpnForYandexCloud
+SaluteToMyTeacher
