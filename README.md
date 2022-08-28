@@ -1,3 +1,2 @@
 # OpnVpnForYandexCloud
-SaluteToMyTeacher
-<b> Test </b>
+Скрипт запускающий VPN с помощью скрипта
