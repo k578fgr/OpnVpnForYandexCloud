@@ -10,7 +10,7 @@ OS: Ubuntu/Bionic/18.04 LTS
 Здесь же проблема была решена. Нашёл необходимые репы на просторах русского интернета
 
 ```
-$ sudo bash setupvpn.sh
+$ sudo bash openvpnUbuntuBionicInstall.sh
 ```
 Открываем в браузере ссылку: https://<адрес VM>/setup
 
